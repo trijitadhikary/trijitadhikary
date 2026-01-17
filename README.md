@@ -1,38 +1,70 @@
-# Hi there, I'm Trijit Adhikary! 👋
+<h1 align="center">Hi there, I'm Trijit Adhikary 👋</h1>
 
-## 🎓 About Me
+<p align="center">
+  <a href="https://github.com/trijitadhikary"><img src="https://img.shields.io/github/followers/trijitadhikary?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
-I'm a motivated Computer Science professional currently pursuing an **MSc in Artificial Intelligence** at **Queen Mary University of London (QMUL)**, with an expected graduation in **July 2026**. I have a strong ability to translate complex theoretical concepts into practical applications, backed by hands-on industry experience.
+## 🚀 About Me
 
-## 💼 Professional Experience
+I'm a passionate developer who loves building amazing projects and contributing to open source. I enjoy solving complex problems and learning new technologies.
 
-- **Industrial Internship** at **Hamad Medical Corporation** (1 year)
-  - Developed disease simulation software using **C#** and **Unity**
-  - Applied theoretical knowledge to real-world healthcare challenges
-  - Gained experience in medical software development and simulation technology
+- 🔭 I'm currently working on various exciting projects
+- 🌱 I'm constantly learning and exploring new technologies
+- 👯 I'm looking to collaborate on interesting open source projects
+- 💬 Ask me about web development, software engineering, and technology
+- 📫 How to reach me: Through GitHub
+- ⚡ Fun fact: I love turning ideas into reality through code
 
-## 🔭 What I'm Looking For
+## 🛠️ Technologies & Tools
 
-I'm seeking a challenging role as a **Computer Professional**, with specialization in:
-- 🤖 **Automation**
-- 🧠 **AI/ML Development**
-- 🎮 **Simulation Technology**
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-## 💡 Technical Expertise
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- **Functional Programming**: Haskell
-- **Deep Learning**: PyTorch
-- **Software Engineering**: Best practices and design patterns
-- **Game Development**: C#, Unity
-- **AI/ML**: Artificial Intelligence and Machine Learning applications
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🌱 Current Focus
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Advancing my knowledge in Artificial Intelligence and Machine Learning
-- Building practical AI solutions
-- Exploring cutting-edge deep learning techniques
-- Applying software engineering best practices to AI projects
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trijitadhikary&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trijitadhikary&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trijitadhikary&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🌟 Featured Projects
+
+Check out my repositories to see what I've been working on!
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/trijitadhikary"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-*Passionate about leveraging technology to solve complex problems and create meaningful impact.*
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/trijitadhikary">trijitadhikary</a></i>
+</p>
